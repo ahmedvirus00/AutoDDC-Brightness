@@ -5,6 +5,7 @@ A simple gnome extension to automatically adjust external monitor brightness via
 - Multiple monitor support (not tested though!)
 - Automatic location, and sunset/sunrise detection using `geoclue` with [sunrise-sunset.org](https://sunrise-sunset.org).
 - Sunset/Sunrise toggles, and many configuration options
+- Catch up feature - if you turn on your computer late
 
 # Requirements
 - Gnome 49+ (earlier versions were not tested)
